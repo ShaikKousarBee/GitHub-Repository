@@ -1,5 +1,5 @@
 
-                                        ## PROJECT PLANNING DOCUMENTATION
+                                        # Project Planning Documentation
 
 **Team Name:** Team-A
 
