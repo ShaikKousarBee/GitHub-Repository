@@ -49,10 +49,10 @@ The application follows a three-tier architecture:
               +------------------+
 
               
-Web Server:
+**Web Server:**
 Apache Tomcat
 
-Version Control:
+**Version Control:**
 Git & GitHub
 
 ## 5. Technology Stack Component:-
