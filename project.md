@@ -1,5 +1,5 @@
 
-                                 # PROJECT PLANNING DOCUMENTATION
+                                 <h1 align="center">PROJECT PLANNING DOCUMENTATION</h1>
 
 **Team Name:** Team-A
 
